@@ -1,0 +1,15 @@
+# Artefatos de build gerados pelo STM32CubeIDE
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# Arquivos de workspace Eclipse/STM32CubeIDE
+.metadata/

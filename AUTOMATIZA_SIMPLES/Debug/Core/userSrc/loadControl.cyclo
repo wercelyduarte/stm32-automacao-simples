@@ -1,5 +1,0 @@
-../Core/userSrc/loadControl.c:31:6:loadControlInitialize	1
-../Core/userSrc/loadControl.c:40:6:loadSetValue	9
-../Core/userSrc/loadControl.c:78:6:HAL_GPIO_EXTI_Falling_Callback	2
-../Core/userSrc/loadControl.c:89:6:HAL_UART_TxCpltCallback	1
-../Core/userSrc/loadControl.c:98:6:HAL_UART_RxCpltCallback	7

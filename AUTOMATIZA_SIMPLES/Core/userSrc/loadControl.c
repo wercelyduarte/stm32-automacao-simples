@@ -19,13 +19,6 @@ const uint8_t turn_on_load[] = { "\n\rLOAD WAS TURNED ON\r\n" };
 const uint8_t turn_off_load[] = { "\n\rLOAD WAS TURNED OFF\r\n" };
 const uint8_t error_text[] = { "\n\rEXPRESSION WAS NOT RECOGNIZED\r\n" };
 
-typedef enum{
-	LOAD_ON = 0,
-	LOAD_OFF,
-	LOAD_TOGGLE,
-	LOAD_ERROR
-}load_value_en;
-
 
 /**
  * @brief  Initialize variables and functions needed to firmware contolate the load as expected.
